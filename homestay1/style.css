@@ -1,0 +1,102 @@
+.main-wrapper{
+    background-color: pink;
+
+}
+.navbar-nav{
+    list-style: none;
+    display:inline-block;
+
+   
+
+}
+
+
+
+.navbar-nav .nav-item{
+                    margin:20px 0px 0px 30px;
+                    padding:2px 30px;
+                    
+                    background-color: #ffffff;
+                    font-color:white;
+                    font-weight:600;
+                    font-family: arial-black;
+                    box-shadow: -1px 3px 1px 1px rgb(100, 99, 99);
+                    border-radius:3px;
+                    text-align: center;
+                    
+}
+.nav-item:hover{
+    background-color:#9999ff;
+                        
+                        transition: all ease-in-out 0.5s;
+                    }
+.nav-item .nav-link{
+    color:white;
+}
+.main-wrapper{
+    background: white;
+}
+.main-header{
+    background:grey;
+}
+
+.main-body{
+    margin-top:10px;
+
+}
+
+
+.card-group{
+    margin-left:20px;
+    margin-right:20px;
+
+}
+.card-group .card{
+    margin-left:10px;
+    margin-right:10px;
+    border-style: outset black;
+    border-width:5px;
+}
+.accomodations{
+    margin-left:20px;
+    margin-right:20px;
+    display:flex;
+    align-content: center;
+    justify-content: center;
+}
+.title2 >h3{
+    text-align: center;
+    background-color: grey;
+    margin:10px 20px 10px 20px;
+    height:100px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+}
+.carousel-caption{
+    background-color:black;
+    opacity:0.5;
+}
+.footer .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:30px;
+}
+.fa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left:10px;
+    border:9px solid;
+
+}
+
+.footer-copyright .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:10px;
+}
+
